@@ -1,13 +1,13 @@
 {
-  "main.css": "/tfjs-efficientnetv2-example/static/css/main.fad6505a.chunk.css",
-  "main.js": "/tfjs-efficientnetv2-example/static/js/main.2145a3c2.chunk.js",
-  "main.js.map": "/tfjs-efficientnetv2-example/static/js/main.2145a3c2.chunk.js.map",
-  "static/js/1.7b3b39d1.chunk.js": "/tfjs-efficientnetv2-example/static/js/1.7b3b39d1.chunk.js",
-  "static/js/1.7b3b39d1.chunk.js.map": "/tfjs-efficientnetv2-example/static/js/1.7b3b39d1.chunk.js.map",
-  "runtime~main.js": "/tfjs-efficientnetv2-example/static/js/runtime~main.488eb154.js",
-  "runtime~main.js.map": "/tfjs-efficientnetv2-example/static/js/runtime~main.488eb154.js.map",
-  "static/css/main.fad6505a.chunk.css.map": "/tfjs-efficientnetv2-example/static/css/main.fad6505a.chunk.css.map",
-  "index.html": "/tfjs-efficientnetv2-example/index.html",
-  "precache-manifest.dbcdd25514e616ab30f38f351b8b7f35.js": "/tfjs-efficientnetv2-example/precache-manifest.dbcdd25514e616ab30f38f351b8b7f35.js",
-  "service-worker.js": "/tfjs-efficientnetv2-example/service-worker.js"
+  "main.css": "/tfjs-efficientnetv2/static/css/main.fad6505a.chunk.css",
+  "main.js": "/tfjs-efficientnetv2/static/js/main.2145a3c2.chunk.js",
+  "main.js.map": "/tfjs-efficientnetv2/static/js/main.2145a3c2.chunk.js.map",
+  "static/js/1.7b3b39d1.chunk.js": "/tfjs-efficientnetv2/static/js/1.7b3b39d1.chunk.js",
+  "static/js/1.7b3b39d1.chunk.js.map": "/tfjs-efficientnetv2/static/js/1.7b3b39d1.chunk.js.map",
+  "runtime~main.js": "/tfjs-efficientnetv2/static/js/runtime~main.d04dfa80.js",
+  "runtime~main.js.map": "/tfjs-efficientnetv2/static/js/runtime~main.d04dfa80.js.map",
+  "static/css/main.fad6505a.chunk.css.map": "/tfjs-efficientnetv2/static/css/main.fad6505a.chunk.css.map",
+  "index.html": "/tfjs-efficientnetv2/index.html",
+  "precache-manifest.a5310a72c220d4dce9684fd3e5affe6b.js": "/tfjs-efficientnetv2/precache-manifest.a5310a72c220d4dce9684fd3e5affe6b.js",
+  "service-worker.js": "/tfjs-efficientnetv2/service-worker.js"
 }
